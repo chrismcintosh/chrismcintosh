@@ -22,10 +22,6 @@ I'm currently a Senior Software Engineer building the web app side of Cloud IBR 
 
 \- Ryan Fraase
 
-> “Chris is hardworking, analytical, reliable, dedicated to growth, a remarkable team player and an all around great guy. At Engage, he lives our values of trust, quality, leadership, and innovation. He would be an excellent hire to any team and I fully recommend him.”
-
-\- Erik Rapprich [@rapprich](https://github.com/rapprich)
-
 > “Chris is an amazing developer and teammate, every time anyone needed guidance on a problem, he was there to help find the best solution. Not only is he knowledgeable and talented when it comes to writing programs, he is also a natural leader with the ability to provide useful insight across all aspects of a software project. Chris is a pleasure to work with and will definitely be an amazing asset for whatever position he’s being considered for.”
 
 \- Mason Cable [@MasonCable](https://github.com/MasonCable)
